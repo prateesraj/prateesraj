@@ -1,5 +1,3 @@
-#  About Me:
-hello everyone myself prateesraj<br>electrical and communication engineering student at coimbatore institute of technology<br>passionate about creating real life software and hardware projects<br>learning automation using AI
 
 #  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=prateesraj&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
