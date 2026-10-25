@@ -24,11 +24,14 @@
 #  Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-<div align="center">
-  <img src="./glitched_photo.gif" width="300" alt="Glitched profile photo">
-</div>
-
-
+<table>
+  <tr>
+    <td align="center" width="65%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" width="100%"/>
+    </td>
+    <td align="center" width="35%">
+      <img src="./glitched_photo.gif" width="220" alt="Glitched profile photo"/>
+    </td>
+  </tr>
+</table>
 
