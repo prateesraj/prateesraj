@@ -1,6 +1,11 @@
 #  About Me:
 hello everyone myself prateesraj<br>electrical and communication engineering student at coimbatore institute of technology<br>passionate about creating real life software and hardware projects<br>learning automation using AI
 
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prateesraj&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prateesraj&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prateesraj&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ##  Socials:
 <p align="center">
@@ -20,10 +25,6 @@ hello everyone myself prateesraj<br>electrical and communication engineering stu
 
 #  Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prateesraj&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=prateesraj&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prateesraj&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
