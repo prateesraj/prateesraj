@@ -1,11 +1,11 @@
 #  About Me:
-hello everyone I'm prateesraj<br>electrical and communication engineering student at coimbatore institute of technology<br>passionate about creating real life software and hardware projects<br>learning automation using AI
+hello everyone myself prateesraj<br>electrical and communication engineering student at coimbatore institute of technology<br>passionate about creating real life software and hardware projects<br>learning automation using AI
 
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/mightbe.pratees) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratees Raj) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pratees Raj) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/mightbe.pratees)<br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratees Raj) <br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pratees Raj)<br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateesraj23@gmail.com) 
 
 #  Tech Stack:
