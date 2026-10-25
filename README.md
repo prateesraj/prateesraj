@@ -35,4 +35,10 @@ hello everyone myself prateesraj<br>electrical and communication engineering stu
 ---
 [![](https://komarev.com/ghpvc/?username=prateesraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=PRATEESRAJ.exe;INITIALIZING+DEVELOPER+PROFILE...;HARDWARE+%C3%97+SOFTWARE+%C3%97+AI;ACCESS+GRANTED_" alt="Hacker-style typing animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:001a08,50:003b18,100:000000&text=SYSTEM%20ONLINE&fontColor=39FF14&fontSize=30&fontAlignY=55&animation=twinkling&stroke=39FF14&strokeWidth=1" width="100%" alt="System online banner"/>
+
+</div>
