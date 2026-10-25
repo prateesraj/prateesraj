@@ -26,5 +26,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
+<div align="center">
+  <img src="./glitched_photo.gif" width="300" alt="Glitched profile photo">
+</div>
+
 
 
