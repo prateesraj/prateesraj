@@ -3,4 +3,5 @@
 </a>
 <a href="https://github.com/prateesraj/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateesraj&layout=compact&langs_count=8&card_width=320" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateesraj&show_icons=true&theme=radical)
 </a>
